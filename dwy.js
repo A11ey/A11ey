@@ -20,7 +20,7 @@ let cookiesArr = [], cookie = '',secretp = '',shareCodeList = [],showCode = true
 let doPkSkill = false;  //自动放技能，不需要的改为false
 
 // 助力码
-let pkShareCodes = ['sSKNX-MpqKPS4ba4mZnbBoXIm6pslHdRzOM1bNzYDyQ2o_xvLqBWoZQk'];
+let pkShareCodes = ['sSKNX-MpqKPS4ba4mZnbBoXIm6pslHdRzOM1bNzYDyQ2o_xvLqBWoZQk','sSKNX-MpqKPS4ba4mZnbBoXIm6pslHdRzKg5ZwlMmvFowX83qpg','sSKNX-MpqKPS4ba4mZnbBoXIm6pslHdRzLhkAdjdWXTnsLrWk7TIEsbkEf5k'];
 
 const JD_API_HOST = `https://api.m.jd.com/client.action?functionId=`;
 !(async () => {
