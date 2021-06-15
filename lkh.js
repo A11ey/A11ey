@@ -54,7 +54,7 @@ async function helpFriend(cookie, launchId) {
           Host: 'wq.jd.com',
           Cookie: cookie,
           accept: '*/*',
-          'user-agent': `jdpingou;android;10.0.2;10;network/wifi;Mozilla/5.0 (Linux; Android 10; MI 8 Build/QKQ1.190828.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045227 Mobile Safari/537.36`,
+          'user-agent': `Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.5(0x18000528) NetType/WIFI Language/zh_CN`,
           'accept-language': 'zh-cn',
           referer:
             `https://st.jingxi.com/sns/202103/20/jxhlk/list.html?launchid=${launchId}&ptag=139022.1.2&srv=jx_cxyw_https://wq.jd.com/cube/front/activePublish/jxhlkv2/486449.html?ptag=139022.1.2_jing`,
